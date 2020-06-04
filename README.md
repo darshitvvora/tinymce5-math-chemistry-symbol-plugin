@@ -1,9 +1,5 @@
 # TinyMCE 5 Example Plugin
 Developed by Darshit Vora
-
-
-Live demo: https://tinymce.martyfriedel.com/
-
 ## How to use
 Open **index.html** in a web browser and you're good to go. 
 
@@ -16,9 +12,11 @@ and host the files locally yourself.
 
 A package.json file is included for you to quickly get TinyMCE running locally - use your favourite package manager (such as NPM, Yarn, etc)
 to get the build files, and update the JS file in the index.html file and you'll be good to go.
-
+## Demo
+1. `git clone`
+2. Open `index.html` in browser
 ## Usage
-1. Copy plugins folder in yur pproject
+1. Copy plugins folder in your pproject
 2. To change label make change in `plugins/matheditor/plugin.js`
 3. To change css styles check stylesheet files in `plugins/matheditor/html/plugin.html`
 4. Integrate in matheeditor tinymce plugin as external plugin while you initialize tinymce. Check example in index.html
