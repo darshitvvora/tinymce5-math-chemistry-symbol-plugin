@@ -24,3 +24,11 @@ to get the build files, and update the JS file in the index.html file and you'll
 ## Reference
 https://www.martyfriedel.com/blog/tinymce-5-creating-a-plugin-with-a-dialog-and-custom-icons
 https://www.tiny.cloud
+
+## License
+
+tinymce5-math-chemistry-symbol-plugin is copyright (c) 2020-present Darshit Vora and
+the [contributors to Node-Minio](https://github.com/darshitvvora/tinymce5-math-chemistry-symbol-plugin/graphs/contributors).
+
+tinymce5-math-chemistry-symbol-plugin is free software, licensed under the MIT License. See the
+`LICENSE` file for more details.
